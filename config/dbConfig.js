@@ -2,7 +2,7 @@ module.exports = {
     HOST: 'localhost',
     USER: 'root',
     PASSWORD: '',
-    DB: 'tikee_node',
+    DB: 'proyectonodejs',
     dialect: 'mysql',
 
     pool: {

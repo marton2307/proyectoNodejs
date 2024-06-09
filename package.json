@@ -1,5 +1,5 @@
 {
-  "name": "tikee-node",
+  "name": "proyecto-nodejs",
   "version": "1.0.0",
   "description": "node express",
   "main": "server.js",
